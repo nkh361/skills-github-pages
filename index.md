@@ -1,4 +1,4 @@
 ---
-title: the361
+title: the 361 blog
 ---
 
